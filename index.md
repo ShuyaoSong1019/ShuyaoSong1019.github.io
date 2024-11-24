@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shuyao Song (Jenny, 宋树摇)**.<br>
 
-I am a graduate student in the School of Public Health at the Peking University, advised by [Dr. Yuanjie Pang](https://sph.pku.edu.cn/info/1766/5614.htm), within [China Kaddorie Biobank Group](https://www.ckbiobank.org/). <br>
+I am a graduate student in the School of Public Health at the Peking University. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shuayao_song [at] 163.com
 
