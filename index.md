@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://shuyaosong1019.github.io/songshuyao.jpg" class="floatpic">
 
 Here is **Shuyao Song (Jenny, 宋树摇)**.<br>
 
