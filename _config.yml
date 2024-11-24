@@ -6,7 +6,7 @@ url: https://shuyaosong1019.github.io
 
 # Owner/author information
 owner:
-  # name: ShuyaoSong
+  name: ShuyaoSong
   avatar: https://shuyaosong1019.github.io/songshuyao.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: shuyao_song@163.com
@@ -84,4 +84,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2024/11/24 by Hanlin Cai.
+# Latest update in 2024/11/24 by Song Shuyao.
