@@ -1,14 +1,13 @@
 ---
 layout: page
 ---
-
 # About Me
 
 <img src="https://shuyaosong1019.github.io/songshuyao.jpg" class="floatpic">
 
-Here is **Shuyao Song (Jenny, 宋树摇)**.<br>
+Here is **Shuyao Song (Jenny, 宋树摇)**.`<br>`
 
-I am a graduate student in the School of Public Health at the Peking University. <br>
+I am a graduate student in the School of Public Health at the Peking University. `<br>`
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shuayao_song [at] 163.com
 
@@ -29,12 +28,5 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-<!-- - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
 
 <br>
-
