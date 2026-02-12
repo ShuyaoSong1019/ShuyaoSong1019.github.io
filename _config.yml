@@ -37,17 +37,23 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-  #   url: /
-  # - title: Publications
-  #   url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
-  # - title: Startups
-  #   url: /startups/
-  # - title: Blogs
-  #   url: /blogs/
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Experience
+    url: /experience/
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /cv/
+  - title: Awards
+    url: /awards/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Startups
+    url: /startups/
+  - title: Blogs
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
