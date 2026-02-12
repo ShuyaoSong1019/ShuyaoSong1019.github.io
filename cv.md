@@ -4,22 +4,22 @@ permalink: /cv/index.html
 title: CV
 ---
 
-<a class="btn" href="https://shuyaosong1019.github.io/file/ShuyaoSongCV.pdf">Download CV (PDF) / 下载简历</a>
+<a class="btn" href="https://shuyaosong1019.github.io/file/ShuyaoSongCV.pdf">Download CV (PDF)</a>
 
-## Profile / 基本信息
+## Profile
 
-- Name / 姓名: 宋树摇
-- Gender / 性别: 女
-- Birth / 出生年月: 2000年10月
-- Political status / 政治面貌: 中共党员
-- Email / 邮箱: shuyao_song@163.com
-- Phone / WeChat / 电话/微信: 18813120872
-- IELTS / 英语成绩: 6.5
-- Research direction / 研究方向: 慢性病流行病学
+- Name: Shuyao Song
+- Gender: Female
+- Date of birth: Oct 2000
+- Political status: Communist Party of China member
+- Email: shuyao_song@163.com
+- Phone / WeChat: 18813120872
+- IELTS: 6.5
+- Research interests: Chronic disease epidemiology
 
 ---
 
-## Education / 教育经历
+## Education
 
 **Peking University, School of Public Health** (Beijing, China)
 
@@ -35,7 +35,7 @@ title: CV
 
 ---
 
-## Research Projects / 科研项目与数据分析经验
+## Research Projects
 
 **1) Liver biological age as an aging early-warning indicator in middle-aged and older Chinese**
 
@@ -57,7 +57,7 @@ title: CV
 
 ---
 
-## Skills / 技能
+## Skills
 
 - Data analysis: R, STATA (advanced); Python, SAS (intermediate).
 - Documentation & design: Office (Word, PPT, Excel), Adobe AI/PS.

@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-## Experience / 实践经历
+## Experience
 
 **PuzzleLogic (GigaTime), Guizhou** — Intern (2025.12 - 2026.03)
 

@@ -13,7 +13,7 @@ owner:
   cv: https://shuyaosong1019.github.io/file/ShuyaoSongCV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: https://github.com/ShuyaoSong1019
+  github: ShuyaoSong1019
   linkedin: https://www.linkedin.com/in/shuyao-song-3807a7252/
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: https://space.bilibili.com/694725212?spm_id_from=333.1007.0.0
@@ -50,6 +50,8 @@ links:
     url: /startups/
   - title: Blogs
     url: /blogs/
+  - title: Chinese
+    url: /cn/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
