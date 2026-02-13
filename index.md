@@ -41,12 +41,14 @@ I look forward to continuing my studies and research in Peking University, and t
   <img src="https://shuyaosong1019.github.io/file/Lifes/Travel/WorldYouthPeaceConference.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="World Youth Peace Conference">
 
 * **Jun 2025**: I completed seven years of undergraduate and postgraduate studies at Peking University.
-  <img src="https://shuyaosong1019.github.io/file/Lifes/Travel/WorldYouthPeaceConference.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="World Youth Peace Conference">
-
+  <div style="display:flex; gap:10px; flex-wrap:wrap; margin:10px 0;">
+    <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation1.jpg" style="max-width:45%; height:auto;" alt="Msc_graduation1">
+    <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation2.jpg" style="max-width:45%; height:auto;" alt="Msc_graduation2">
+  </div>
+  
 * **Dec 2024**: I gave an oral presentation on my research at the Peking University Medical Graduate Forum.
-  <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation1.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Msc_graduation1">
-  <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation2.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Medical Graduate Forum Oral Presentation">
-
+  <img src="https://shuyaosong1019.github.io/mypaper/poster/Oral_presentation.png" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Msc_graduation1">
+ 
 * **Dec 2024**: My first Chinese review article (first author) was officially published:
   - Title: Recent advances in organ-system-specific biological age
   - Journal: Chinese Journal of Epidemiology
