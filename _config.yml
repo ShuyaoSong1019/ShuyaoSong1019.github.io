@@ -11,6 +11,7 @@ owner:
   bio: Time is expensive.
   email: shuyao_song@163.com
   cv: https://shuyaosong1019.github.io/file/ShuyaoSongCV.pdf
+  cv_chn: https://shuyaosong1019.github.io/file/ShuyaoSong_CV_cn.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: ShuyaoSong1019
@@ -36,18 +37,18 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Experience
-    url: /experience/
-  - title: Research
-    url: /research/
+  # - title: Experience
+  #   url: /experience/
+  # - title: Research
+  #   url: /research/
   - title: CV
     url: /cv/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
   - title: Lifes
     url: /lifes/
-  - title: Startups
-    url: /startups/
+  # - title: Startups
+  #   url: /startups/
   - title: Blogs
     url: /blogs/
   - title: Chinese

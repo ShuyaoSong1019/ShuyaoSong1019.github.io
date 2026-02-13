@@ -5,11 +5,14 @@ title: Publications
 ---
 ## Journal Articles
 
-1. Song S, Wu T, Yu C, et al. Prospective association between liver biomarkers and mortality risk among middle-aged and older adults in China. Chinese Journal of Epidemiology, 2025, 46(4): 549-556. [Chinese core journal]
-2. Song S, Wu Z, Lv J, et al. Dietary factors and patterns in relation to risk of later-onset ulcerative colitis in Chinese: A prospective study of 0.5 million people. Alimentary Pharmacology & Therapeutics, 2024. 【CAS Q1, IF 6.6】
-3. Song S, Lv J, Li L, Pang Y. Editorial: Exploring the influence of diet on later-onset ulcerative colitis—Are eggs and spicy foods the key factors in Asia? Authors’ reply. Alimentary Pharmacology & Therapeutics, 2024. 【CAS Q1, IF 6.6】
-4. Song S, Wu Z, Sun D, et al. Advances in organ system-specific biological age research. Chinese Journal of Epidemiology, 2024. [Chinese core journal]
+1. **Song S**, Wu T, Yu C, et al. Prospective association between liver biomarkers and mortality risk among middle-aged and older adults in China. Chinese Journal of Epidemiology, 2025, 46(4): 549-556. [Chinese core journal]
+2. **Song S**, Wu Z, Lv J, et al. Dietary factors and patterns in relation to risk of later-onset ulcerative colitis in Chinese: A prospective study of 0.5 million people. Alimentary Pharmacology & Therapeutics, 2024. 【CAS Q1, IF 6.6】
+3. **Song S**, Lv J, Li L, Pang Y. Editorial: Exploring the influence of diet on later-onset ulcerative colitis—Are eggs and spicy foods the key factors in Asia? Authors’ reply. Alimentary Pharmacology & Therapeutics, 2024. 【CAS Q1, IF 6.6】
+4. **Song S**, Wu Z, Sun D, et al. Advances in organ system-specific biological age research. Chinese Journal of Epidemiology, 2024. [Chinese core journal]
+5. Wu Z, **Song S**, Lv J, et al. SGLT2 inhibition, acylcarnitines and heart failure: a Mendelian randomization study. *Open Heart*. 2025.
+6. Cong X, **Song S**, Li Y, et al. Comparison of models to predict incident chronic liver disease: a systematic review and external validation in Chinese adults. *BMC Med*. 2024.
+7. Yang Z, Ding Y, **Song S**, et al. Factors Affecting the Breastfeeding Duration of Infants and Young Children in China: A Cross-Sectional Study. *Nutrients*. 2023;15(6):1353. doi:[10.3390/nu15061353](https://doi.org/10.3390/nu15061353)
 
 ## Patents
 
-1. Pang Y, Lv J, Yu C, Si J, Sun D, Li L, Wang X, Song S. Metabolic dysfunction-associated fatty liver disease polygenic testing kit and genetic risk assessment system: CN118186072A. 2024-06-14. [Invention patent]
+1. Pang Y, Lv J, Yu C, Si J, Sun D, Li L, Wang X, **Song S**. Metabolic dysfunction-associated fatty liver disease polygenic testing kit and genetic risk assessment system: CN118186072A. 2024-06-14. [Invention patent]

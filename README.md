@@ -6,12 +6,12 @@ Here is **Shuyao Song (Jenny, 宋树摇)**. This is the repository for my person
 
 ## Update and News
 
+- **Feb 2026:** Update the Github Page.
 - **Oct 2024:** This Github Page have been built based on ([caihanlin.com](https://caihanlin.com/)).
 
 ## Star History
 
 **If you like it, please STAR it! 🥰**
-
 
 ## Statement
 
