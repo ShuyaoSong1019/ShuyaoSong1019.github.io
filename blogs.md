@@ -9,12 +9,12 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %}
+<!-- {% include disqus.html %} -->
 
 <br>
 
 ## Stars
 
-- [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
+- [Leave a star if you like it 🥰](https://github.com/ShuyaoSong1019/ShuyaoSong1019.github.io)
 
 <br>
