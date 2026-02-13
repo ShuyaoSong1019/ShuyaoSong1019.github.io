@@ -26,19 +26,26 @@ I look forward to continuing my studies and research in Peking University, and t
 ## News and Updates
 
 * **Dec 2025**: I started my first internship at PuzzleLogic, a startup focusing on AI pathology solutions ([PuzzleLogic](https://puzzlelogic.com/)).
+<img src="https://shuyaosong1019.github.io/file/Work/PuzzleLogic_intern.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="PuzzleLogic intern">
+
+
 
 * **Oct 2025**: My work was presented as a poster at the Peking University AI Technology Festival.
   <img src="https://shuyaosong1019.github.io/mypaper/poster/AItech_poster2.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="AI Technology Festival Poster">
 
 * **Sep 2025**: I started my PhD study at Peking University.
+  <img src="https://shuyaosong1019.github.io/file/Lifes/PhD_Open.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="PhD started">
+
 
 * **Aug 2025**: I participated in the World Youth Peace Conference as a representative.
   <img src="https://shuyaosong1019.github.io/file/Lifes/Travel/WorldYouthPeaceConference.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="World Youth Peace Conference">
 
 * **Jun 2025**: I completed seven years of undergraduate and postgraduate studies at Peking University.
+  <img src="https://shuyaosong1019.github.io/file/Lifes/Travel/WorldYouthPeaceConference.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="World Youth Peace Conference">
 
 * **Dec 2024**: I gave an oral presentation on my research at the Peking University Medical Graduate Forum.
-  <img src="https://shuyaosong1019.github.io/mypaper/poster/Oral_presentation.png" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Medical Graduate Forum Oral Presentation">
+  <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation1.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Msc_graduation1">
+  <img src="https://shuyaosong1019.github.io/file/Lifes/Msc_graduation2.jpg" style="float:none; display:block; margin:10px 0; max-width:45%; height:auto;" alt="Medical Graduate Forum Oral Presentation">
 
 * **Dec 2024**: My first Chinese review article (first author) was officially published:
   - Title: Recent advances in organ-system-specific biological age
