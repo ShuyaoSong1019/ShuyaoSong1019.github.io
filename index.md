@@ -5,15 +5,15 @@ layout: page
 
 <img src="https://shuyaosong1019.github.io/songshuyao.jpg" class="floatpic">
 
-Here is Shuyao Song (Jenny, 宋树摇).
 
+Here is Shuyao Song (Jenny, 宋树摇).
 - Email: shuyao_song@163.com
 - Phone / WeChat: 18813120872
-- Email: shuyao_song@163.com
 
 I am a first-year PhD. student in School of Public Health at Peking University, where I am supervised by [Prof. Yuanjie Pang](https://sph.pku.edu.cn/info/1766/5614.htm). My research focuses on chronic disease epidemiology and aging-related risk prediction. I have down some data analysis and research based on [China Kadoorie Biobank (CKB)](https://ckbiobank.pku.edu.cn/), one of the world’s largest prospective cohort studies.
 
-I completed my bechelor and master’s studies at the School of Public Health, Peking University. I have gained a great deal during my time here, and have been [awarded the Merit Student honor and scholarships](/awards/). I look forward to continuing my studies and research in Peking University, and to having more opportunities for academic exchanges and discussions with domestic and international peers. Please feel free to reach out to me at shuyao_song@163.com.
+I completed my bechelor and master’s studies at the School of Public Health, Peking University. I have gained a great deal during my time here, and have been [awarded the Merit Student honor and scholarships](/awards/). 
+I look forward to continuing my studies and research in Peking University, and to having more opportunities for academic exchanges and discussions with domestic and international peers. Please feel free to reach out to me at shuyao_song@163.com.
 
 ## Research Interests
 
