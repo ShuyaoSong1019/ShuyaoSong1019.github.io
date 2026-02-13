@@ -18,4 +18,7 @@ PhD. student in School of Public Health at Peking University. My research focuse
 - Risk prediction and survival analysis
 - Population health data science
 
----
+## News and Updates
+
+* **Dec, 2025**: I started my first intern experience in a startup PuzzleLogic ([PuzzleLogic - AI病理学解决方案(https://puzzlelogic.com/)
+* Sep, 2025: I started my Phd study in Peking University.
