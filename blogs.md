@@ -12,7 +12,7 @@ This is my 2026 Personal Knowledge & Productivity Hub, built on Notion — a cur
 It includes: My daily reflections and thinking records, personal project and task management systems, a knowledge and tools hub, my 2026 growth goals and long-term planning.
 
 This hub serves as both a structured database and a space for continuous learning, reflection, and self-development.
-If you’re interested, welcome to explore it and share your thoughts!
+If you’re interested, please leave a massage let me know and I will open the link!
 
 - [Clike the link to open my own 2026 dataset page](https://holy-harpymimus-ed1.notion.site/ebd//2ddbb1153a5e810a96c1d85ac3edb29a)
 
