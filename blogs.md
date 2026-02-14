@@ -5,8 +5,16 @@ title: Blogs
 ---
 ## Blogs
 
-### 2026 Shuyao Own Datasets
-<iframe src="https://holy-harpymimus-ed1.notion.site/ebd//2ddbb1153a5e810a96c1d85ac3edb29a" width="100%" height="600" frameborder="0" allowfullscreen />
+### 2026 Shuyao Own Dataset Hub
+
+This is my 2026 Personal Knowledge & Productivity Hub, built on Notion — a curated digital workspace where I organize my research, academic projects, goals, and life systems, updated daily.
+
+It includes: My daily reflections and thinking records, personal project and task management systems, a knowledge and tools hub, my 2026 growth goals and long-term planning.
+
+This hub serves as both a structured database and a space for continuous learning, reflection, and self-development.
+If you’re interested, welcome to explore it and share your thoughts!
+
+- [Clike the link to open my own 2026 dataset page](https://holy-harpymimus-ed1.notion.site/ebd//2ddbb1153a5e810a96c1d85ac3edb29a)
 
 ## Leave a Message
 
@@ -31,4 +39,4 @@ title: Blogs
 ## Stars
 
 - [Leave a star if you like it 🥰](https://github.com/ShuyaoSong1019/ShuyaoSong1019.github.io)
-<br>
+  <br>
