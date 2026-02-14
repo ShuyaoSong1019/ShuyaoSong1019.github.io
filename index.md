@@ -62,3 +62,7 @@ I look forward to continuing my studies and research in Peking University, and t
   - Comment in: Editorial: Exploring the influence of diet on later-onset ulcerative colitis-Are eggs and spicy foods the key factors in Asia? Authors' reply
   - Journal: Aliment Pharmacol Ther (Q1, IF 6.6)
   - DOI: [10.1111/apt.17963](https://doi.org/10.1111/apt.17963)
+
+## Page Views
+
+![Page Views](https://komarev.com/ghpvc/?username=ShuyaoSong1019&label=Page%20Views)
